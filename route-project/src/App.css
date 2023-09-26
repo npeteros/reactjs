@@ -1,0 +1,26 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  table {
+      width: 50vh;
+      margin: 0 auto;
+      text-align: center;
+      border: 2px solid black;
+  }
+  
+  .cell {
+      border: 2px solid black;
+      padding: 10px;
+  }
+  
+  .errorMsg {
+      color: red;
+  }
+  
+  input:focus {
+      outline: none;
+  }
