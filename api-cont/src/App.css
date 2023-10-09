@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+table {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+td, th {
+    border: 2px solid black;
+    padding: 10px;
+}
